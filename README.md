@@ -28,3 +28,5 @@ Task list
 Emoji
 :smile:
 
+## Insert image
+![Additive colors](images/AdditiveColor.svg.png)
